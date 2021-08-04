@@ -21,6 +21,9 @@
     /**
      *设置根控制器
      */
+    NSString *a = @"11111";NSString *a = @"11111";
+    NSString *a = @"11111";
+    NSString *a = @"11111";
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     self.window.backgroundColor = [UIColor whiteColor];
     UINavigationController *nav = [[UINavigationController alloc]initWithRootViewController: [cheshiViewController new]];
