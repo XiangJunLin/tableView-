@@ -30,7 +30,8 @@
     NSString *a = @"11111";
     NSString *a = @"11111";
     NSString *a = @"11111";
-    // Dispose of any resources that can be recreated.
+
+    NSString *a = @"11111";    // Dispose of any resources that can be recreated.
 }
 
 
