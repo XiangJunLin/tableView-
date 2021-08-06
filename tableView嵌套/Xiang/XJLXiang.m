@@ -10,6 +10,9 @@
 
 @implementation XJLXiang
 asdabnsdklasdlalsdnlkanslkdnalsnd;an;sdn;kansd;kasjnd;ajns;ldnlansdnal;snld;
+asdabnsdklasdlalsdnlkanslkdnalsnd;an;sdn;kansd;kasjnd;ajns;ldnlansdnal;snld;
+asdabnsdklasdlalsdnlkanslkdnalsnd;an;sdn;kansd;kasjnd;ajns;ldnlansdnal;snld;asdabnsdklasdlalsdnlkanslkdnalsnd;an;sdn;kansd;kasjnd;ajns;ldnlansdnal;snld;
+asdabnsdklasdlalsdnlkanslkdnalsnd;an;sdn;kansd;kasjnd;ajns;ldnlansdnal;snld;asdabnsdklasdlalsdnlkanslkdnalsnd;an;sdn;kansd;kasjnd;ajns;ldnlansdnal;snld;
 /*
 // Only override drawRect: if you perform custom drawing.
 // An empty implementation adversely affects performance during animation.
