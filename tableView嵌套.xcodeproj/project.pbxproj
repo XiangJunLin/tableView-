@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B148F26F26BCC59700E3E0B4 /* XJLXiang.m in Sources */ = {isa = PBXBuildFile; fileRef = B148F26E26BCC59700E3E0B4 /* XJLXiang.m */; };
 		B1806453212BDF98007C538B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B1806452212BDF98007C538B /* AppDelegate.m */; };
 		B1806456212BDF98007C538B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B1806455212BDF98007C538B /* ViewController.m */; };
 		B1806459212BDF98007C538B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1806457212BDF98007C538B /* Main.storyboard */; };
@@ -44,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B148F26D26BCC59700E3E0B4 /* XJLXiang.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XJLXiang.h; sourceTree = "<group>"; };
+		B148F26E26BCC59700E3E0B4 /* XJLXiang.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XJLXiang.m; sourceTree = "<group>"; };
 		B180644E212BDF98007C538B /* tableView嵌套.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tableView嵌套.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1806451212BDF98007C538B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B1806452212BDF98007C538B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -104,6 +107,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B148F26C26BCC58500E3E0B4 /* Xiang */ = {
+			isa = PBXGroup;
+			children = (
+				B148F26D26BCC59700E3E0B4 /* XJLXiang.h */,
+				B148F26E26BCC59700E3E0B4 /* XJLXiang.m */,
+			);
+			path = Xiang;
+			sourceTree = "<group>";
+		};
 		B1806445212BDF98007C538B = {
 			isa = PBXGroup;
 			children = (
@@ -127,6 +139,7 @@
 		B1806450212BDF98007C538B /* tableView嵌套 */ = {
 			isa = PBXGroup;
 			children = (
+				B148F26C26BCC58500E3E0B4 /* Xiang */,
 				B1806483212BE02B007C538B /* BaseTabeView */,
 				B1806494212BE1FD007C538B /* Lib */,
 				B1806487212BE0FF007C538B /* tableViewControllerView */,
@@ -363,6 +376,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B148F26F26BCC59700E3E0B4 /* XJLXiang.m in Sources */,
 				B1806456212BDF98007C538B /* ViewController.m in Sources */,
 				B1806461212BDF9A007C538B /* main.m in Sources */,
 				B180649C212BE209007C538B /* FSPageContentView.m in Sources */,
